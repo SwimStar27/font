@@ -32,8 +32,5 @@ console.log("Left Wrist = "+left +"Right Wrist = "+right+"Difference = "+differe
 }
 
 function draw(){
-background("#90d6d3");
-fill("#d7b0ff");
-stroke("#ffffed");
-square(nosex,nosey,difference);
+text("Code");
 }
