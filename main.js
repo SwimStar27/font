@@ -35,4 +35,5 @@ function draw(){
 textSize(difference);
 fill("grey");
 text("Code",nosex,nosey);
+background("cornflower");
 }
