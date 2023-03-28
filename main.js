@@ -32,5 +32,7 @@ console.log("Left Wrist = "+left +"Right Wrist = "+right+"Difference = "+differe
 }
 
 function draw(){
-text("Code");
+textSize(difference);
+
+text("Code",nosex,nosey);
 }
